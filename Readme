@@ -1,0 +1,7 @@
+Run ./INSTALL to compile
+
+Usage:
+./stable.o Dataset_filename(string) number_of_records(int) query_filename(string) output_filename(string)
+
+Example:
+./stable.o trec1k.seed10 10 query.txt res.txt
